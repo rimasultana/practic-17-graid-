@@ -2,3 +2,7 @@
     background-color: #a5b1c2;
     padding: 100px 0;
 }
+image{
+    max-width: 100%;
+    display: block;
+}
